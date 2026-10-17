@@ -39,14 +39,6 @@ Oferecer um conjunto de recursos que ajudem profissionais e entusiastas de segur
 - 👯 Estou buscando me apronfundar no *Ramo de Cyber Segurança*
 - 📫 Como me encontrar: *marcos_vini101@hotmail.com*
 
-
-## 🛠️ Tecnologias & Ferramentas
-
-![Linux](https://img.shields.io/badge/Linux-orange?style=social&logo=Linux)</br>
-![HTML](https://img.shields.io/badge/HTML-Blue?style=social&logo=HTML5)</br>
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=social&logo=Mysql)</br>
-![PHP](https://img.shields.io/badge/php-Blue?style=social&logo=php)
-
 ## 🌍 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinibeani/)
